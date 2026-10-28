@@ -7,7 +7,7 @@ import java.io.IOException;
 public class BedtimeStories {
     public static void main(String[] args) {
 //        Start from the demo's read pattern: FileReader,
-//    BufferedReader, read the first line, then while (line != null),
+//        BufferedReader, read the first line, then while (line != null),
 //        inside a try/catch with e.printStackTrace();
         try {
             // create a FileReader connected to the file
